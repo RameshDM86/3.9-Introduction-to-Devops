@@ -2,7 +2,7 @@
 
 ## 1. Overview of the Origins and Key Principles of DevOps:
 
-#### DevOps, a portmanteau of "Development" and "Operations," is a cultural and technical movement that emerged to bridge the gap between software development and IT operations teams. 
+#### DevOps, a compound of "Development" and "Operations," is a cultural and technical movement that emerged to bridge the gap between software development and IT operations teams. 
 #### It promotes collaboration, communication, and integration between these traditionally maintained teams to enhance the software delivery process. Key principles of DevOps include:
 
 1.1. Collaboration: Encouraging close cooperation and communication between development and operations teams.
