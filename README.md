@@ -68,3 +68,12 @@
 
 
 **In conclusion, DevOps is a transformative approach to software development that emphasizes collaboration, automation, and continuous improvement. When implemented effectively, it can lead to faster, higher-quality software delivery with improved collaboration and cost-efficiency. However, overcoming cultural, technical, and organizational challenges is essential to realize these benefits and ensure a successful DevOps implementation.**  
+
+
+References: 
+
+History of DevOps - Scaler Topics  - https://www.scaler.com/topics/devops-tutorial/history-of-devops/
+
+Understanding automation (redhat.com) - https://www.redhat.com/en/topics/automation 
+Benefits of DevOps - GeeksForLess - https://geeksforless.com/benefits-of devops/#:~:text=Benefits%20of%20DevOps%20Model%20in%20an%20Enterprise&text=This%20leads%20to%20more%20rapid,solving%20and%20faster%20software%20delivery 
+
