@@ -2,8 +2,8 @@
 
 ## 1. Overview of the Origins and Key Principles of DevOps:
 
-### DevOps, a portmanteau of "Development" and "Operations," is a cultural and technical movement that emerged to bridge the gap between software development and IT operations teams. 
-### It promotes collaboration, communication, and integration between these traditionally maintained teams to enhance the software delivery process. Key principles of DevOps include:
+#### DevOps, a portmanteau of "Development" and "Operations," is a cultural and technical movement that emerged to bridge the gap between software development and IT operations teams. 
+#### It promotes collaboration, communication, and integration between these traditionally maintained teams to enhance the software delivery process. Key principles of DevOps include:
 
 1.1. Collaboration: Encouraging close cooperation and communication between development and operations teams.
 
@@ -13,17 +13,8 @@
 
 1.4. Continuous Deployment (CD): Automating the deployment process to release code changes into production more frequently.
 
-1.5. Monitoring and Feedback: Continuously monitoring applications and providing feedback for improvements. 
-
-      Example of this can be Site reliability engineering (SRE) and their benifits 
-                 
-                 - Higher levels of application reliability and resiliency 
-                 
-                 - Increased efficiency through automation
-                 
-                 - Improved customer satisfaction and retention
-                 
-                 - Driving a culture of continuous improvement      
+1.5. Monitoring and Feedback: Continuously monitoring applications and providing feedback for improvements. Example of this can be Site reliability engineering (SRE)
+     
 
 ## 2. The Role of Automation in DevOps:
 
