@@ -75,5 +75,6 @@ References:
 History of DevOps - Scaler Topics  - https://www.scaler.com/topics/devops-tutorial/history-of-devops/
 
 Understanding automation (redhat.com) - https://www.redhat.com/en/topics/automation 
+
 Benefits of DevOps - GeeksForLess - https://geeksforless.com/benefits-of devops/#:~:text=Benefits%20of%20DevOps%20Model%20in%20an%20Enterprise&text=This%20leads%20to%20more%20rapid,solving%20and%20faster%20software%20delivery 
 
