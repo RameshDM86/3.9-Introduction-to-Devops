@@ -16,9 +16,13 @@
 1.5. Monitoring and Feedback: Continuously monitoring applications and providing feedback for improvements. 
       
       Example of this can be Site reliability engineering (SRE) and their benifits 
+                 
                  - Higher levels of application reliability and resiliency 
+                 
                  - Increased efficiency through automation
+                 
                  - Improved customer satisfaction and retention
+                 
                  - Driving a culture of continuous improvement
 
 ## 2. The Role of Automation in DevOps:
