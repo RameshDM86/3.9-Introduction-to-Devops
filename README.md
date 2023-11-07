@@ -71,4 +71,4 @@
 4.5. Legacy Systems: Adapting DevOps practices to legacy systems can be complex. Solution: Gradually modernize and refactor legacy applications.
 
 
-<FONT COLOR="#ff0000">In conclusion, DevOps is a transformative approach to software development that emphasizes collaboration, automation, and continuous improvement. When implemented effectively, it can lead to faster, higher-quality software delivery with improved collaboration and cost-efficiency. However, overcoming cultural, technical, and organizational challenges is essential to realize these benefits and ensure a successful DevOps implementation.</Font>
+<FONT COLOR="#ff0100">In conclusion, DevOps is a transformative approach to software development that emphasizes collaboration, automation, and continuous improvement. When implemented effectively, it can lead to faster, higher-quality software delivery with improved collaboration and cost-efficiency. However, overcoming cultural, technical, and organizational challenges is essential to realize these benefits and ensure a successful DevOps implementation.</Font>
